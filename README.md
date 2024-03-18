@@ -1,0 +1,1 @@
+This is a simple command-line game where you try to guess a pre-defined number. You'll be prompted to enter your guess, and the game will tell you if you're too high, too low, or if you've guessed correctly!
